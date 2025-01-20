@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="https://github.com/legoman8304/legoman8304.github.io/blob/master/style.css">
 
 
-<h1>Hi, I'm Ryan! <br/><a href="https://github.com/RyanDorsay">Programmer</a>, <a href="https://www.linkedin.com/in/RyanDorsay/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/RyanDorsay">YouTuber</a></h1>
+<h1>Ryan Dorsay <br/><a href="https://github.com/RyanDorsay">Programmer</a>, <a href="https://www.linkedin.com/in/RyanDorsay/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/RyanDorsay">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
