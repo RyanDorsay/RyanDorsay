@@ -34,14 +34,15 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/RyanDorsay/Package-Delivery-Pathfinding-Algorithm) -->
 
 
-<h2> 🔗 Connect with me:</h2>
+<h2>🤝 Connect with me</h2>
 
 [<img align="left" alt="RyanDorsay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- <!-- [<img align="left" alt="RyanDorsay | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[📬][email]
 <!-- [<img align="left" alt="RyanDorsay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-<!-- [<img align="left" alt="RyanDorsay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+<!-- [📧"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 [linkedin]: https://www.linkedin.com/in/ryan-dorsay-618318157/
+[email]: ryan.dorsay@yahoo.com
 <!-- [twitter]: https://twitter.com/RyanDorsay -->
 <!-- [youtube]: https://www.youtube.com/c/RyanDorsay -->
 <!-- [instagram]: https://www.instagram.com/RyanDorsay/ -->
