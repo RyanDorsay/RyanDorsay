@@ -41,7 +41,7 @@
 <!-- [<img align="left" alt="RyanDorsay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 <!-- [<img align="left" alt="RyanDorsay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
-[linkedin]: https://linkedin.com/in/RyanDorsay 
+[linkedin]: https://www.linkedin.com/in/ryan-dorsay-618318157/
 <!-- [twitter]: https://twitter.com/RyanDorsay -->
 <!-- [youtube]: https://www.youtube.com/c/RyanDorsay -->
 <!-- [instagram]: https://www.instagram.com/RyanDorsay/ -->
