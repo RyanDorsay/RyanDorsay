@@ -4,7 +4,8 @@
 
 <h1>Ryan Dorsay <br/><a href="https://github.com/RyanDorsay">Software Engineering Professional</a></h1>
 
-<h2>🧑About me:</h2>
+<h2>🧑About me: </h2>
+I am a creative software engineering professional with excellent testing and debugging skills. I work well both independently and with a team. I have nearly six years’ experience and a varied skillset. I am a quick learner who is always up for a challenge. 
 
 <h2>✅ Certifications:</h2>
 
