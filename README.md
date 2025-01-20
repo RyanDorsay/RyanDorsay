@@ -4,15 +4,15 @@
 
 <h1>Ryan Dorsay <br/><a href="https://github.com/RyanDorsay">Software Engineering Professional</a></h1>
 
-<h2>👨‍💻 About me:</h2>
+<h2>🧑About me:</h2>
 
 <h2>✅ Certifications:</h2>
 
-<h2>👨‍💻 Recommendations:</h2>
+<h2>👍 Recommendations:</h2>
 <b>From Brian Cummings (Team Lead Application Developer at Finvi):</b> https://www.linkedin.com/in/bryanrcummings/
 <br>"Ryan's positive attitude and his diligent work ethic impressed me. He is a fast learner and someone our project team could rely on to complete his work in timely manner. He will be a positive asset to any team he is a member of."
 
-<h2>👨‍💻 Skills:</h2>
+<h2>📝Skills:</h2>
 
 
 <h2>📋 Software Development Projects (Under Contruction) 🛠️:</h2>
