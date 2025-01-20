@@ -15,7 +15,7 @@
 <h2>👨‍💻 Skills:</h2>
 
 
-<h2>👨‍💻 Software Development Projects (Under Contruction):</h2>
+<h2>👨‍💻 Software Development Projects (Under Contruction) 🛠️:</h2>
 
 <!-- - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/RyanDorsay/Algorithms-Practice)
