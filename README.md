@@ -1,52 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ryan Dorsay - Creative Software Engineering Professional</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-        }
-        header {
-            background: #333;
-            color: #fff;
-            padding-top: 30px;
-            min-height: 70px;
-            border-bottom: #77ab59 3px solid;
-        }
-        header h1 {
-            text-align: center;
-            margin: 0;
-        }
-        .content {
-            padding: 20px;
-        }
-        h2 {
-            color: #333;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        ul li {
-            background: #f4f4f4;
-            margin-bottom: 5px;
-            padding: 10px;
-            border: #ccc 1px solid;
-        }
-    </style>
-</head>
 
+<link rel="stylesheet" type="text/css" href="https://github.com/legoman8304/legoman8304.github.io/blob/master/style.css">
 
-<body>
 
 <h1>Hi, I'm Ryan! <br/><a href="https://github.com/RyanDorsay">Programmer</a>, <a href="https://www.linkedin.com/in/RyanDorsay/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/RyanDorsay">YouTuber</a></h1>
 
@@ -87,11 +41,6 @@
 <!-- [twitter]: https://twitter.com/RyanDorsay -->
 <!-- [youtube]: https://www.youtube.com/c/RyanDorsay -->
 <!-- [instagram]: https://www.instagram.com/RyanDorsay/ -->
-
-  
-</body>
-</html>
-
 
 
 
