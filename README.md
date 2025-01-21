@@ -4,7 +4,7 @@
   <link rel="stylesheet" type="text/css" href="https://github.com/RyanDorsay/RyanDorsay/blob/main/style.css"> 
 </head>
 
-<body>
+<body style="color: white; background-color: darkblue;">
   
 <h1>Ryan Dorsay <br/><a href="https://github.com/RyanDorsay">Software Engineering Professional</a></h1>
 
