@@ -1,5 +1,5 @@
 
-<link rel="stylesheet" type="text/css" href="https://github.com/legoman8304/legoman8304.github.io/blob/master/style.css">
+<link rel="stylesheet" type="text/css" href="https://github.com/RyanDorsay/RyanDorsay/blob/main/style.css">
 
 
 <h1>Ryan Dorsay <br/><a href="https://github.com/RyanDorsay">Software Engineering Professional</a></h1>
