@@ -1,48 +1,7 @@
 <head>
   <meta charset="UTF-8"> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="https://github.com/RyanDorsay/RyanDorsay/blob/main/style.css">
-
-  body {
-  background-color: #001f3f;
-  color: #ffffff;
-  font-family: Arial, sans-serif;
-}
-
-header, footer {
-  background-color: #003366;
-  color: #ffffff;
-  padding: 10px;
-  text-align: center;
-}
-
-a {
-  color: #1e90ff;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #87cefa;
-}
-
-button {
-  background-color: #1e90ff;
-  border: none;
-  color: white;
-  padding: 10px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-button:hover {
-  background-color: #87cefa;
-}
-  
+  <link rel="stylesheet" type="text/css" href="https://github.com/RyanDorsay/RyanDorsay/blob/main/style.css"> 
 </head>
 
 <body>
