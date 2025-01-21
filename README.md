@@ -1,7 +1,9 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="https://github.com/RyanDorsay/RyanDorsay/blob/main/style.css">
+</head>
 
-<link rel="stylesheet" type="text/css" href="https://github.com/RyanDorsay/RyanDorsay/blob/main/style.css">
-
-
+<body>
+  
 <h1>Ryan Dorsay <br/><a href="https://github.com/RyanDorsay">Software Engineering Professional</a></h1>
 
 <h2>🧑About me: </h2>
@@ -46,6 +48,8 @@ I am a creative software engineering professional with excellent testing and deb
 <!-- [twitter]: https://twitter.com/RyanDorsay -->
 <!-- [youtube]: https://www.youtube.com/c/RyanDorsay -->
 <!-- [instagram]: https://www.instagram.com/RyanDorsay/ -->
+
+</body>
 
 
 
