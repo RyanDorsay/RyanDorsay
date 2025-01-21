@@ -1,4 +1,8 @@
+<!DOCTYPE html> 
+<html lang="en">
 <head>
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="https://github.com/RyanDorsay/RyanDorsay/blob/main/style.css">
 </head>
 
@@ -50,6 +54,7 @@ I am a creative software engineering professional with excellent testing and deb
 <!-- [instagram]: https://www.instagram.com/RyanDorsay/ -->
 
 </body>
+</html>
 
 
 
