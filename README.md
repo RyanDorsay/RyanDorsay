@@ -1,10 +1,4 @@
-<head>
-  <meta charset="UTF-8"> 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="https://github.com/RyanDorsay/RyanDorsay/blob/main/style.css"> 
-</head>
-
-<body style="color: white; background-color: darkblue;">
+<body>
   
 <h1>Ryan Dorsay <br/><a href="https://github.com/RyanDorsay">Software Engineering Professional</a></h1>
 
