@@ -6,6 +6,11 @@
 I am a creative software engineering professional with excellent testing and debugging skills. I work well both independently and with a team. I have nearly six years’ experience and a varied skillset. I am a quick learner who is always up for a challenge. 
 
 <h2>✅ Certifications:</h2>
+<ul>
+  <li><a href="https://www.credly.com/badges/123604ca-f653-4304-b0d7-087d84254e37/public_url">AWS Certified Cloud Practitioner</a></li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
 
 <h2>👍 Recommendations:</h2>
 <b>From Brian Cummings (Team Lead Application Developer at Finvi):</b> https://www.linkedin.com/in/bryanrcummings/
