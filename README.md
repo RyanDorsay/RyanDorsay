@@ -18,6 +18,11 @@ I am a creative software engineering professional with excellent testing and deb
 <br>"Ryan's positive attitude and his diligent work ethic impressed me. He is a fast learner and someone our project team could rely on to complete his work in timely manner. He will be a positive asset to any team he is a member of."
 
 <h2>📝Skills:</h2>
+<ul>
+<li><b>Programming Languages:</b> C#, JavaScript, TypeScript, Python, Java</li>
+<li><b>Web Development:</b> HTML, CSS, Angular, React, Node.js, REST APIs, JSON, Web Accessibility</li>
+<li><b>Frameworks:</b> .NET, Selenium</li>
+</ul>
 
 
 <h2>📋 Software Development Projects (Under Contruction) 🛠️:</h2>
