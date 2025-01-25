@@ -9,7 +9,7 @@ I am a creative software engineering professional with excellent testing and deb
 <ul>
   <li><a href="https://www.credly.com/badges/123604ca-f653-4304-b0d7-087d84254e37/public_url">AWS Certified Cloud Practitioner</a></li>
   <li><a href="https://www.linkedin.com/posts/ryan-dorsay-618318157_just-finished-the-course-python-for-data-activity-7282885509922623488-GfHX/?utm_source=share&utm_medium=member_desktop">Python for Data Science and Machine Learning Essential Training</a></li>
-  <li>Milk</li>
+  <li><a href="https://www.linkedin.com/posts/ryan-dorsay-618318157_become-a-data-analyst-learning-path-linkedin-activity-7273414286322917376-RE2s?utm_source=share&utm_medium=member_desktop">Become a Data Analyst</a></li>
 </ul>  
 
 <h2>👍 Recommendations:</h2>
