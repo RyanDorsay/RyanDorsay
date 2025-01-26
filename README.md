@@ -24,6 +24,7 @@ I am a creative software engineering professional with excellent testing and deb
 <li><b>Frameworks:</b> WinForms, .NET, Crystal Reports, Wyn Report Designer, InterSystems Caché, Boomi API Management, Artiva RM, WordPress </li>
 <li><b>Cloud Services :</b> AWS, Azure </li>
 <li><b>Databases:</b> Oracle, MySQL, MongoDB, DynamoDB</li>
+<li><b>Data and Analytics:</b> Database Management, SQL, Data Management, Data Visualization, Data Analysis, Power BI, Tableau, Data Modeling, Excel</li> 
 </ul>
 
 
