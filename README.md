@@ -26,7 +26,10 @@ I am a creative software engineering professional with excellent testing and deb
 <li><b>Databases:</b> Oracle, MySQL, MongoDB, DynamoDB</li>
 <li><b>Data and Analytics:</b> Database Management, SQL, Data Management, Data Visualization, Data Analysis, Power BI, Tableau, Data Modeling, Excel</li>
 <li><b>Testing and Quality Assurance:</b> Creating Test Plans, Documenting Bug Tickets, Test Automation, Unit Testing, Selenium, SonarQube</li>
-<li><b>Analysis and Design:</b> Understanding Client Requirements, Triaging Tickets, Designing REST APIs and Controllers, Designing Database Reports</li> 
+<li><b>Analysis and Design:</b> Understanding Client Requirements, Triaging Tickets, Designing REST APIs and Controllers, Designing Database Reports</li>
+<li><b>Agile Methodology:</b> Stand-ups, Sprint Planning, Code Review, Retros, CI/CD</li>
+<li><b>Tools:</b> GitHub, Npm, Jenkins, Postman, Microsoft Office, Atlassian JIRA, Swagger Doc</li> 
+<li><b>Additional Skills and Training:</b> AI, SAP, Salesforce</li> 
 </ul>
 
 
