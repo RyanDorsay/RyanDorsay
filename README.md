@@ -10,7 +10,8 @@ I am a creative software engineering professional with excellent testing and deb
   <li><a href="https://www.credly.com/badges/123604ca-f653-4304-b0d7-087d84254e37/public_url">AWS Certified Cloud Practitioner</a></li>
   <li><a href="https://www.linkedin.com/posts/ryan-dorsay-618318157_just-finished-the-course-python-for-data-activity-7282885509922623488-GfHX/?utm_source=share&utm_medium=member_desktop">Python for Data Science and Machine Learning Essential Training</a></li>
   <li><a href="https://www.linkedin.com/posts/ryan-dorsay-618318157_become-a-data-analyst-learning-path-linkedin-activity-7273414286322917376-RE2s?utm_source=share&utm_medium=member_desktop">Become a Data Analyst</a></li>
-    <li><a href="https://www.linkedin.com/posts/ryan-dorsay-618318157_clouddevelopment-microsoftazure-activity-7204997011731816448-V5IJ?utm_source=share&utm_medium=member_desktop">Azure Essential Training for Developers</a></li>
+  <li><a href="https://www.linkedin.com/posts/ryan-dorsay-618318157_clouddevelopment-microsoftazure-activity-7204997011731816448-V5IJ?utm_source=share&utm_medium=member_desktop">Azure Essential Training for Developers</a></li>
+  <li><a href="https://www.linkedin.com/posts/ryan-dorsay-618318157_artificialintelligence-activity-7290144292612759553-u9MI?utm_source=share&utm_medium=member_desktop">Artificial Intelligence Foundations: Machine Learning</a></li>
 </ul>  
 
 <h2>👍 Recommendations:</h2>
