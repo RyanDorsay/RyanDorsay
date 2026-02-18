@@ -13,7 +13,7 @@ I am a creative software engineering professional with excellent testing and deb
   <li><a href="https://www.linkedin.com/posts/ryan-dorsay-618318157_become-a-data-analyst-learning-path-linkedin-activity-7273414286322917376-RE2s?utm_source=share&utm_medium=member_desktop">Become a Data Analyst</a></li>
   <li><a href="https://www.linkedin.com/posts/ryan-dorsay-618318157_clouddevelopment-microsoftazure-activity-7204997011731816448-V5IJ?utm_source=share&utm_medium=member_desktop">Azure Essential Training for Developers</a></li>
   <li><a href="https://www.linkedin.com/posts/ryan-dorsay-618318157_artificialintelligence-activity-7290144292612759553-u9MI?utm_source=share&utm_medium=member_desktop">Artificial Intelligence Foundations: Machine Learning</a></li>
-  <li><a href="[https://www.linkedin.com/posts/ryan-dorsay-618318157_artificialintelligence-activity-7290144292612759553-u9MI?utm_source=share](https://coursera.org/share/f63bde6e75bd070a4f4dc0167f458cf2)&utm_medium=member_desktopIntroduction to Front-End Development</a></li>
+  <li><a href="https://coursera.org/share/f63bde6e75bd070a4f4dc0167f458cf2">Introduction to Front-End Development</a></li>
 </ul>  
 
 <h2>👍 Recommendations:</h2>
